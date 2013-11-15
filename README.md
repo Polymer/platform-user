@@ -1,2 +1,4 @@
-platform-user
-=============
+Platform
+========
+
+Aggregated polyfills the Polymer platform. 
